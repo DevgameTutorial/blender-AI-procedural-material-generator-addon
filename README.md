@@ -1,5 +1,3 @@
----
-
 # 🎨 AI Procedural Material Generator for Blender
 
 **Oleh: Hafizh Zaldy Alviansyah ([Devgame Tutorial](https://www.youtube.com/@DevgameTutorial))**
